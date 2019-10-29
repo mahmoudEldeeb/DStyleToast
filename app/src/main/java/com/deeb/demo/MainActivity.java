@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements ClickListener {
     public void successToast() {
 
        //////////
+        //////
         DStyleToast.sucessToast(this,"success", Toast.LENGTH_SHORT);
 
     }
